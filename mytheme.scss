@@ -1,0 +1,16 @@
+/*-- scss:defaults --*/
+
+// fonts
+$font-family-sans-serif: "Poppins", "Book Antiqua", Palatino,
+  FreeSerif, serif !default;
+
+
+.logos p {
+  display: flex;
+  justify-content: space-between;
+}
+
+.logos p img:first-child {
+  margin-right: 3rem;
+  margin-left:0rem
+}

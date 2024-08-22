@@ -1,0 +1,147 @@
+---
+title: "Posit::Conf 2024"
+title-slide-attributes:
+    data-background-image: https://posit.co/wp-content/themes/Posit/assets/images/conference/birds-3.svg
+    data-background-size: contain
+    data-background-position: top
+    data-background-opacity: "1"
+format: 
+    revealjs:
+        theme: mytheme.scss
+        scrollable: true
+        logo: https://posit.co/wp-content/themes/Posit/assets/images/conference/posit-conf-logo.svg
+        preview-links: auto
+---
+
+## Posit (formerly RStudio)
+
+![](https://posit.co/wp-content/themes/Posit/assets/images/posit-logo-2024.svg){style="display: flex; justify-content: center; width: 30%; margin: 2rem auto;"}
+
+<!-- class="logos">
+![](images/RStudio-Logo-Flat.png){width="50%"}
+![](https://posit.co/wp-content/themes/Posit/assets/images/posit-logo-reverse-2024.svg){width="50%"}
+</div>
+
+:::{style="display: flex; justify-content: center;"}
+![](https://posit.co/wp-content/themes/Posit/assets/images/posit-logo-reverse-2024.svg){style="margin: auto auto;" width="100%"}
+:::
+
+https://posit.co/wp-content/uploads/2024/08/POSIT24-Selects-Day-3-8.jpg
+-->
+
+
+
+:::: columns
+::: {.column width="40%"}
+
+-   1 day workshops, 2 days conference
+-   \~ 2,000 attendees
+-   First time in Seattle
+
+
+
+:::
+::: {.column width="60%"}
+![](https://posit.co/wp-content/uploads/2024/08/POSIT24-Selects-Day-3-15.jpg)
+
+:::
+::::
+
+Attended by: Craig, Suzanne, Michael, Joanne, Mary, Kristin, Brandon, Christy
+
+Photo credit: [Posit Co](https://posit.co/wp-content/themes/Posit/assets/images/posit-logo-2024.svg)
+
+<!--
+https://posit.co/wp-content/uploads/2024/02/confhero-abstract.png
+![](image2.png){.absolute top=50 right=50 width="450" height="250"}   
+-->
+
+
+
+# Workshops {background-image="https://posit.co/wp-content/uploads/2024/02/confhero-abstract.png" background-opacity=".5"}
+
+##
+
+::::: columns
+::: {.column width="40%"}
+### 24 Workshops
+
+-   Level-up with Shiny
+-   Build a Dashboard (with Quarto, R and/or Python)
+-   From R User to R Programmer
+
+:::
+
+::: {.column width="60%"}
+![](images/workshops.png){height="540"}
+:::
+:::::
+
+# Conference {background-image="https://posit.co/wp-content/uploads/2024/02/confhero-abstract.png" background-opacity=".5"}
+
+## 
+
+**Next gen tools:**
+
+- [Positron](https://github.com/posit-dev/positron) (IDE)
+- [Quarto](https://quarto.org/) (RMarkdown)
+
+
+**Most talked about:** 
+
+- AI, Large language models (LLM)
+- [Typst](typst.app) (move aside LaTeX!)
+
+:::{style="display: flex; justify-content: space-evenly;"}
+![](https://raw.githubusercontent.com/posit-dev/positron/main/positron-product-icons/positron.png){height="100px"}
+
+![](https://quarto.org/quarto.png){height="100px"}
+
+![](https://avatars.githubusercontent.com/u/67595261?s=200&v=4){height="100px"}
+:::
+## 
+
+### Beautiful and Effective Tables
+
+Adequate Tables? No, We Want Great Tables (Richard Iannone)
+
+Context is King (Shannon Pileggi)
+
+
+
+## 
+
+### Shiny x AI (Joe Cheng)
+
+> Stay skeptical, but also, let yourself be curious
+
+There are potentially non-obvious use cases that can make life better for ourselves and users
+
+::: {style="text-align: center; margin-top: 1em"}
+[Demo with Shiny Assistant (a large Language Model (LLM))](https://jcheng.shinyapps.io/sidebot/){preview-link="true" style="text-align: center"}
+:::
+
+
+
+
+
+
+## {.center}
+
+###  [Closeread](https://closeread.netlify.app): bringing Scrollytelling to Quarto (Andrew Bray) 
+
+Adapted from the NYT and now available to use with R in Quarto documents
+
+
+## {background-iframe="https://closeread.netlify.app/gallery/examples/auden-poem/"}
+
+## {background-iframe="https://closeread.netlify.app/gallery/examples/minards-map/"}
+
+##
+
+### Keynote: The Future of Data Science (Allen Downey)
+
+# Credits
+
+All graphics borrowed and sourced from [Posit.co](https://posit.co/conference/)
+
