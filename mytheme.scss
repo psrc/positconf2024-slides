@@ -5,12 +5,12 @@ $font-family-sans-serif: "Poppins", "Book Antiqua", Palatino,
   FreeSerif, serif !default;
 
 
-.logos p {
-  display: flex;
-  justify-content: space-between;
-}
+li, 
+li p {
+  font-size: 1.75rem;
+}  
 
-.logos p img:first-child {
-  margin-right: 3rem;
-  margin-left:0rem
-}
+p {
+  font-size: 1.25rem;
+} 
+
