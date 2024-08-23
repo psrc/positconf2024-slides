@@ -7,28 +7,33 @@ title-slide-attributes:
     data-background-opacity: "1"
 format: 
     revealjs:
+        embed-resources: true
         theme: mytheme.scss
         scrollable: true
         logo: https://posit.co/wp-content/themes/Posit/assets/images/conference/posit-conf-logo.svg
         preview-links: auto
 ---
-
-## Posit (formerly RStudio)
-
 <!--
+https://quarto.org/docs/publishing/github-pages.html
+
 ![](https://posit.co/wp-content/themes/Posit/assets/images/posit-logo-2024.svg){style="display: flex; justify-content: center; width: 25%; margin: 2rem auto;"}
 -->
 
+##  ![](https://posit.co/wp-content/themes/Posit/assets/images/posit-logo-2024.svg){width="20%" style="margin-bottom: 0;"} (formerly ![](images/RStudio-Logo-Flat.png){width="20%" style="margin-bottom: 0;"})
+
+
+
 :::: columns
 ::: {.column width="40%"}
-
+<!--
 ![](https://posit.co/wp-content/themes/Posit/assets/images/posit-logo-2024.svg){style="display: flex; justify-content: center; width: 50%; margin: 2rem auto;"}
+-->
 
-- 1 day workshops, 2 days conference
+1 day workshops, 2 day conference
 
-- \~ 2,000 attendees
+First time in Seattle
 
-- First time in Seattle
+![](images/badge.jpg){width="60%"}
 
 
 
@@ -36,10 +41,13 @@ format:
 ::: {.column width="60%"}
 ![](https://posit.co/wp-content/uploads/2024/08/POSIT24-Selects-Day-3-15.jpg)
 
+1,500+ attendees (in-person & virtual)
+
+Attended by: Craig, Suzanne, Michael, Joanne, Mary, Kristin, Brandon, Christy
 :::
 ::::
 
-Attended by: Craig, Suzanne, Michael, Joanne, Mary, Kristin, Brandon, Christy
+
 
 ::: aside
 Photo credit: [Posit Co](https://posit.co/wp-content/themes/Posit/assets/images/posit-logo-2024.svg)
@@ -78,13 +86,13 @@ https://posit.co/wp-content/uploads/2024/08/POSIT24-Selects-Day-3-8.jpg
 
 ## 
 
-**Next gen tools:**
+### Next gen tools
 
 - [Positron](https://github.com/posit-dev/positron) (IDE)
 - [Quarto](https://quarto.org/) (RMarkdown)
 
 
-**Most talked about:** 
+### Most talked about
 
 - AI, Large language models (LLM)
 - [Typst](typst.app) (move aside LaTeX!)
@@ -97,9 +105,17 @@ https://posit.co/wp-content/uploads/2024/08/POSIT24-Selects-Day-3-8.jpg
 ![](https://avatars.githubusercontent.com/u/67595261?s=200&v=4){height="100px"}
 :::
 
-# Sessions {background-image="https://posit.co/wp-content/uploads/2024/02/confhero-abstract.png" background-opacity=".5"}
+# Sessions {background-image="https://posit.co/wp-content/themes/Posit/assets/images/conference/birds-3.svg" background-opacity=".5" background-position="center" background-size="cover"}
 
-## Navigating a Career in Data Science
+##
+
+### Navigating a Career in Data Science
+
+- hold
+
+### Case Studies
+
+- hold
 
 
 ## Beautiful and Effective Tables
@@ -117,7 +133,7 @@ https://posit.co/wp-content/uploads/2024/08/POSIT24-Selects-Day-3-8.jpg
 There are potentially non-obvious use cases that can make life better for ourselves and users
 
 ::: {style="text-align: center; margin-top: 1em"}
-[Demo with Shiny Assistant (a large Language Model (LLM))](https://jcheng.shinyapps.io/sidebot/){preview-link="true" style="text-align: center"}
+[Demo with Shiny Assistant (a large language model (LLM))](https://jcheng.shinyapps.io/sidebot/){preview-link="true" style="text-align: center"}
 :::
 
 ## {.center}
@@ -135,8 +151,38 @@ Adapted from the NYT and now available to use with R in Quarto documents
 
 ### Keynote: The Future of Data Science (Allen Downey)
 
+:::: columns
+::: {.column width="60%"}
+
+<!---
+Thinking about the future that we want -- are we contributing to negative bias/doomscrolling?
+--->
+An opinionated talk
+
+![](https://posit.co/wp-content/uploads/2024/08/POSIT24-Selects-Day-3-3.jpg){width="40%"}
+
+> ...it's a good time to figure out how we got here and what future we want. Can we use data to answer questions, resolve debates, and make better decisions? What tools and processes make data science work? What can we learn when it does, and what goes wrong when it doesn't?
+
+:::
+::: {.column width="40%"}
+
+We need to say 3 things at the same time: 
+
+    1. On long term trends, almost everything is getting better 
+
+    2. We still have serious problems to solve 
+
+    3. And history suggests we can address them
+
+::: aside
+Photo credit: [Posit Co](https://posit.co/wp-content/uploads/2024/08/POSIT24-Selects-Day-3-3.jpg)
+:::
+
+:::
+::::
+
 # Credits
 
-All graphics and Posit Conference hoto borrowed and sourced from [Posit.co](https://posit.co/conference/)
+All graphics and Posit Conference photos borrowed and sourced from [Posit.co](https://posit.co/conference/)
 
 Screenshot of labelled data from [Shannon Pileggi](https://shannonpileggi.github.io/context-is-king/#/viewing-labelled-data)
