@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "posit-conf-2024-slides.html#formerly",
+    "href": "posit-conf-2024-slides.html#formerly",
+    "title": "Posit::Conf 2024",
+    "section": " (formerly )",
+    "text": "(formerly )\n\n\n\n1 day workshops, 2 day conference\nFirst time in Seattle\n\n\n\n1,500+ attendees (in-person & virtual)\nAttended by: Craig, Suzanne, Michael, Joanne, Mary, Kristin, Brandon, Christy\n\n\n\nPhoto credit: Posit Co"
+  },
+  {
+    "objectID": "posit-conf-2024-slides.html#section",
+    "href": "posit-conf-2024-slides.html#section",
+    "title": "Posit::Conf 2024",
+    "section": "",
+    "text": "24 Workshops\n\nLevel-up with Shiny\nBuild a Dashboard (with Quarto, R and/or Python)\nFrom R User to R Programmer"
+  },
+  {
+    "objectID": "posit-conf-2024-slides.html#section-1",
+    "href": "posit-conf-2024-slides.html#section-1",
+    "title": "Posit::Conf 2024",
+    "section": "",
+    "text": "Next gen tools\n\nPositron (IDE)\nQuarto (RMarkdown)\n\nMost talked about\n\nAI, Large language models (LLM)\nTypst (move aside LaTeX!)"
+  },
+  {
+    "objectID": "posit-conf-2024-slides.html#section-2",
+    "href": "posit-conf-2024-slides.html#section-2",
+    "title": "Posit::Conf 2024",
+    "section": "",
+    "text": "Navigating a Career in Data Science\n\nhold\n\nCase Studies\n\nhold"
+  },
+  {
+    "objectID": "posit-conf-2024-slides.html#beautiful-and-effective-tables",
+    "href": "posit-conf-2024-slides.html#beautiful-and-effective-tables",
+    "title": "Posit::Conf 2024",
+    "section": "Beautiful and Effective Tables",
+    "text": "Beautiful and Effective Tables\nContext is King (Shannon Pileggi)"
+  },
+  {
+    "objectID": "posit-conf-2024-slides.html#section-3",
+    "href": "posit-conf-2024-slides.html#section-3",
+    "title": "Posit::Conf 2024",
+    "section": "",
+    "text": "Shiny x AI (Joe Cheng)\n\nStay skeptical, but also, let yourself be curious\n\nThere are potentially non-obvious use cases that can make life better for ourselves and users\n\nDemo with Shiny Assistant (a large language model (LLM))"
+  },
+  {
+    "objectID": "posit-conf-2024-slides.html#section-4",
+    "href": "posit-conf-2024-slides.html#section-4",
+    "title": "Posit::Conf 2024",
+    "section": "",
+    "text": "Closeread: bringing Scrollytelling to Quarto (Andrew Bray)\nAdapted from the NYT and now available to use with R in Quarto documents"
+  },
+  {
+    "objectID": "posit-conf-2024-slides.html#section-7",
+    "href": "posit-conf-2024-slides.html#section-7",
+    "title": "Posit::Conf 2024",
+    "section": "",
+    "text": "Keynote: The Future of Data Science (Allen Downey)\n\n\nAn opinionated talk\n\n\n…it’s a good time to figure out how we got here and what future we want. Can we use data to answer questions, resolve debates, and make better decisions? What tools and processes make data science work? What can we learn when it does, and what goes wrong when it doesn’t?\n\n\nWe need to say 3 things at the same time:\n1. On long term trends, almost everything is getting better \n\n2. We still have serious problems to solve \n\n3. And history suggests we can address them\n\n\n\nPhoto credit: Posit Co"
+  }
+]
