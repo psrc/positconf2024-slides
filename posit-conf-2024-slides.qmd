@@ -50,17 +50,23 @@ Photo credit: [Posit Co](https://posit.co/wp-content/themes/Posit/assets/images/
 ##
 
 ::::: columns
-::: {.column width="40%"}
+::: {.column width="50%"}
 ### 24 Workshops
 
 - Level-up with Shiny
 - Build a Dashboard (with Quarto, R and/or Python)
+    ![](images/suzanne-dashboard.png)
 - From R User to R Programmer
 
 :::
 
-::: {.column width="60%"}
+::: {.column width="50%"}
+
 ![](images/workshops.png){height="540"}
+<!---
+{height="540"}
+--->
+
 :::
 :::::
 
