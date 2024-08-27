@@ -168,6 +168,66 @@ We need to say 3 things at the same time:
 Photo credit: [Posit Co](https://posit.co/wp-content/uploads/2024/08/POSIT24-Selects-Day-3-3.jpg)
 :::
 
+## 
+
+### 
+
+#### Quarto: A Multifaceted Publishing Powerhouse for Medical Researchers (Joshua Cook)
+
+:::: columns
+::: {.column width="40%"}
+
+<br>
+
+##### File Structure
+
+- /Data: `data.rds`
+- /Analysis:
+    - `data_processing.qmd`
+    - `data_analysis.qmd`
+- /Images: `PSRC_logo.png`
+- /Report:
+    - `Report.Rproj`
+    - `index.qmd`
+    - `_quarto.yml`
+- /Trend-Story:
+    - `Trend-Story.Rproj`
+    - `index.qmd`
+    - `_quarto.yml`
+- /Presentation:
+    - `Presentation.Rproj`
+    - `index.qmd`
+    - `_quarto.yml`
+- `My-Project.Rproj`
+- `index.qmd`
+- `_quarto.yml`
+    
+:::
+::: {.column width="60%"}
+
+<br>
+
+- code in `data_analysis.qmd`
+
+```{r title="data_analysis.qmd"}
+#| eval: FALSE
+#| echo: TRUE
+#| label: fig-bar-chart
+
+ggplot2::ggplot(data, aes(x, y)) + 
+  ggplot2::geom_col()
+```
+
+<br>
+
+- apply **shortcodes** in report/trend/presentation to embed output of the code block
+
+`{{< embed data_analysis.qmd#fig-bar-chart >}}`
+
+:::
+::::
+
+
 # Credits
 
 All graphics and Posit Conference photos borrowed and sourced from [Posit.co](https://posit.co/conference/)
