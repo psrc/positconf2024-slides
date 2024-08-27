@@ -26,6 +26,8 @@ https://quarto.org/docs/publishing/github-pages.html#render-to-docs
 
 First time in Seattle
 
+Next year: Atlanta in September
+
 ![](images/badge.jpg){width="60%"}
 
 
