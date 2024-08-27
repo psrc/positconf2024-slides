@@ -99,11 +99,14 @@ Photo credit: [Posit Co](https://posit.co/wp-content/themes/Posit/assets/images/
 
 ### Navigating a Career in Data Science
 
-- hold
+- GitHub: How To Tell Your Professional Story (Abigail Haddad)
+- Getting Data Done with a Pragmatic Data Team (Alan Schussman)
+- Oops I'm A Manager - Finding your Minimal Viable Process (Andrew Holz)
 
-### Case Studies
+### It Takes A Village: Building And Sustaining Communities
 
-- hold
+- bRewing code: Ingredients for successful tribal collaboration (Alena Reynolds and Angie Reed)
+- Art of R Packages: Forging Community with Hex Stickers (Hubert Halun)
 
 
 ## Beautiful and Effective Tables
@@ -130,10 +133,9 @@ There are potentially non-obvious use cases that can make life better for oursel
 
 Adapted from the NYT and now available to use with R in Quarto documents
 
+[W.H. Auden Poem](https://closeread.netlify.app/gallery/examples/auden-poem/){preview-link="true" style="text-align: center"}
 
-## {background-iframe="https://closeread.netlify.app/gallery/examples/auden-poem/"}
-
-## {background-iframe="https://closeread.netlify.app/gallery/examples/minards-map/"}
+[Minards Map](https://closeread.netlify.app/gallery/examples/minards-map/){preview-link="true" style="text-align: center"}
 
 ##
 
@@ -158,13 +160,11 @@ We need to say 3 things at the same time:
     2. We still have serious problems to solve 
 
     3. And history suggests we can address them
-
+:::
+::::
 ::: aside
 Photo credit: [Posit Co](https://posit.co/wp-content/uploads/2024/08/POSIT24-Selects-Day-3-3.jpg)
 :::
-
-:::
-::::
 
 # Credits
 

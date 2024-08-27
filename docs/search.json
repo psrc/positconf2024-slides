@@ -25,7 +25,7 @@
     "href": "posit-conf-2024-slides.html#section-2",
     "title": "Posit::Conf 2024",
     "section": "",
-    "text": "Navigating a Career in Data Science\n\nhold\n\nCase Studies\n\nhold"
+    "text": "Navigating a Career in Data Science\n\nGitHub: How To Tell Your Professional Story (Abigail Haddad)\nGetting Data Done with a Pragmatic Data Team (Alan Schussman)\nOops I’m A Manager - Finding your Minimal Viable Process (Andrew Holz)\n\nIt Takes A Village: Building And Sustaining Communities\n\nbRewing code: Ingredients for successful tribal collaboration (Alena Reynolds and Angie Reed)\nArt of R Packages: Forging Community with Hex Stickers (Hubert Halun)"
   },
   {
     "objectID": "posit-conf-2024-slides.html#beautiful-and-effective-tables",
@@ -46,11 +46,11 @@
     "href": "posit-conf-2024-slides.html#section-4",
     "title": "Posit::Conf 2024",
     "section": "",
-    "text": "Closeread: bringing Scrollytelling to Quarto (Andrew Bray)\nAdapted from the NYT and now available to use with R in Quarto documents"
+    "text": "Closeread: bringing Scrollytelling to Quarto (Andrew Bray)\nAdapted from the NYT and now available to use with R in Quarto documents\nW.H. Auden Poem\nMinards Map"
   },
   {
-    "objectID": "posit-conf-2024-slides.html#section-7",
-    "href": "posit-conf-2024-slides.html#section-7",
+    "objectID": "posit-conf-2024-slides.html#section-5",
+    "href": "posit-conf-2024-slides.html#section-5",
     "title": "Posit::Conf 2024",
     "section": "",
     "text": "Keynote: The Future of Data Science (Allen Downey)\n\n\nAn opinionated talk\n\n\n…it’s a good time to figure out how we got here and what future we want. Can we use data to answer questions, resolve debates, and make better decisions? What tools and processes make data science work? What can we learn when it does, and what goes wrong when it doesn’t?\n\n\nWe need to say 3 things at the same time:\n1. On long term trends, almost everything is getting better \n\n2. We still have serious problems to solve \n\n3. And history suggests we can address them\n\n\n\nPhoto credit: Posit Co"
