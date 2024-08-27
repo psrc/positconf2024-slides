@@ -54,5 +54,12 @@
     "title": "Posit::Conf 2024",
     "section": "",
     "text": "Keynote: The Future of Data Science (Allen Downey)\n\n\nAn opinionated talk\n\n\n…it’s a good time to figure out how we got here and what future we want. Can we use data to answer questions, resolve debates, and make better decisions? What tools and processes make data science work? What can we learn when it does, and what goes wrong when it doesn’t?\n\n\nWe need to say 3 things at the same time:\n1. On long term trends, almost everything is getting better \n\n2. We still have serious problems to solve \n\n3. And history suggests we can address them\n\n\n\nPhoto credit: Posit Co"
+  },
+  {
+    "objectID": "posit-conf-2024-slides.html#section-6",
+    "href": "posit-conf-2024-slides.html#section-6",
+    "title": "Posit::Conf 2024",
+    "section": "",
+    "text": "Quarto: A Multifaceted Publishing Powerhouse for Medical Researchers (Joshua Cook)\n\n\n\nFile Structure\n\n/Data: data.rds\n/Analysis:\n\ndata_processing.qmd\ndata_analysis.qmd\n\n/Images: PSRC_logo.png\n/Report:\n\nReport.Rproj\nindex.qmd\n_quarto.yml\n\n/Trend-Story:\n\nTrend-Story.Rproj\nindex.qmd\n_quarto.yml\n\n/Presentation:\n\nPresentation.Rproj\nindex.qmd\n_quarto.yml\n\nMy-Project.Rproj\nindex.qmd\n_quarto.yml\n\n\n\n\ncode in data_analysis.qmd\n\n\nggplot2::ggplot(data, aes(x, y)) + \n  ggplot2::geom_col()\n\n\n\napply shortcodes in report/trend/presentation to embed output of the code block\n\n{{&lt; embed data_analysis.qmd#fig-bar-chart &gt;}}"
   }
 ]
